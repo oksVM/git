@@ -6,5 +6,7 @@ public class Main {
         System.out.println("main");
 
         System.out.println("branch");
+        System.out.println("branch");
+
     }
 }
